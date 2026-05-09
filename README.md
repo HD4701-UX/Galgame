@@ -1,0 +1,2 @@
+# Galgame
+artificial galgame
