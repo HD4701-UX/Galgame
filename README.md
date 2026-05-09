@@ -3,3 +3,10 @@ This file also will tell you the difficulties and problems the author has ever m
 
 FIRST COMMIT
 On first part,we'd finished the basic framework and the fundamental conversation between players and characters,realizing most of functions of the pushbutton,thanks to AI.As the author,my project is mainly about rendering constructive and innovative thoughts and providing basic codes which i learnt from my college.AI's works is to improve my codes and create the connection between signal and slots. 
+
+SECOND PART
+On second part,i add lots of background images,hoping the game will be just like a real Galgame.However,i found that there is something wrong with the logic of images'movement,some images can't show up,and some images stand still.THen,i realized that function"setbackimage" works directly,without "looking"the sentences below.So i tend to change my beginning framework,making the images change more effective.
+And,i add"Part 2"to my game,which means larger workload.
+
+THIRD PART
+加入音乐
