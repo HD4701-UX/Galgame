@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/galgame分镜/galgame分镜.cflags</file>
+        <file>../../Desktop/galgame分镜/galgame分镜.config</file>
+        <file>../../Desktop/galgame分镜/galgame分镜.creator</file>
+        <file>../../Desktop/galgame分镜/galgame分镜.cxxflags</file>
+        <file>../../Desktop/galgame分镜/galgame分镜.files</file>
+        <file>../../Desktop/galgame分镜/galgame分镜.includes</file>
+        <file>../../Desktop/galgame分镜/galgame分镜+背景音乐.qrc</file>
+        <file>../../Desktop/galgame分镜/分镜1.png</file>
+        <file>../../Desktop/galgame分镜/分镜2.png</file>
+        <file>../../Desktop/galgame分镜/分镜3.png</file>
+        <file>../../Desktop/galgame分镜/分镜4.png</file>
+        <file>../../Desktop/galgame分镜/分镜5.png</file>
+        <file>../../Desktop/galgame分镜/分镜6.png</file>
+        <file>../../Desktop/galgame分镜/分镜7（主动请缨）.png</file>
+        <file>../../Desktop/galgame分镜/分镜8（旁敲侧击）.png</file>
+        <file>../../Desktop/galgame分镜/分镜9.png</file>
+        <file>../../Desktop/galgame分镜/分镜10.png</file>
+        <file>../../Desktop/galgame分镜/分镜11.png</file>
+        <file>../../Desktop/galgame分镜/分镜12（第一章结束）.png</file>
+        <file>../../Desktop/galgame分镜/分镜12（坏结局）.png</file>
+        <file>../../Desktop/galgame分镜/分镜13.png</file>
+        <file>../../Desktop/galgame分镜/分镜14.png</file>
+        <file>../../Desktop/galgame分镜/分镜15.png</file>
+        <file>../../Desktop/galgame分镜/分镜16.png</file>
+        <file>../../Desktop/galgame分镜/分镜17.png</file>
+        <file>../../Desktop/galgame分镜/分镜18.png</file>
+        <file>../../Desktop/galgame分镜/萤火之森.mp3</file>
+    </qresource>
+</RCC>
